@@ -620,3 +620,5 @@ def get_active_users_and_pids(raw_logs):
                         if not m:
                             m = re.search(r"for (\\w+)", last_line)
              
+
+ln -sf /usr/local/bin/menu /usr/bin/zohaib
