@@ -9,7 +9,7 @@ A powerful VPN management panel with Dropbear SSH, Nginx SSL WebSocket Proxy, Au
 Run this command as root:
 
 ```bash
-apt update && apt install -y curl && curl -O https://raw.githubusercontent.com/abdulbasit95950/vps-panel/main/menu.sh && chmod +x menu.sh && sudo bash menu.sh
+apt update && apt install -y curl && curl -O https://raw.githubusercontent.com/zabikhan407/ZOHAIB-VPS/main/script.sh && chmod +x script.sh && sudo ./script.sh
 ```
 
 ---
